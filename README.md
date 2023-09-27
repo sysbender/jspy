@@ -5,7 +5,7 @@
 
 <table>
 <tr>
-<td> Before </td> <td> After </td>
+<td> Javascript </td> <td> Python </td>
 </tr>
 <tr>
 <td>

@@ -1,7 +1,7 @@
 # jspy
 
 
-## Example: nice looking table to compare code changes
+## Comparison of Javascript and Python programming languages side by side
 
 <table>
 <tr>

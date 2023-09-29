@@ -1,6 +1,8 @@
 
 
 ## syntax 
+* TOC
+{:toc}
 
 ### keyword
 

@@ -10,18 +10,16 @@
 <tr>
 <td>
 
-```javascript
-console.log('Hello, World!');
-alert('Hello, World');
-document.write('Hello, World!');
-```
+    {% highlight javascript %}
+    {% include_relative hello.js %}
+    {% endhighlight %}  
 
 </td>
 <td>
     
-```python
-print('Hello World!')
-```
+    {% highlight python %}
+    {% include_relative hello.py %}
+    {% endhighlight %}  
 </td>
 </tr>
 </table>

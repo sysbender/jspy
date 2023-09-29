@@ -1,7 +1,5 @@
 
-
-## syntax 
-* TOC
+1. TOC
 {:toc}
 
 ### keyword
